@@ -1,0 +1,4 @@
+interface:
+  display_name: "MaxCompute DataWorks Flow"
+  short_description: "Reuse MaxCompute query and DataWorks sync flows"
+  default_prompt: "Use $maxcompute-dataworks-flow to inspect this project's MaxCompute connection, query execution, and DataWorks SQL sync workflow."
